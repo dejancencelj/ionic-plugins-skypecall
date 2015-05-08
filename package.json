@@ -1,0 +1,17 @@
+{
+    "version": "0.0.1",
+    "name": "si.mimateam.skype",
+    "cordova_name": "SkypePlugin",
+    "description": "Skype call plugin",
+    "license": "MIT",
+    "repo": "",
+    "issue": "",
+    "keywords": [
+        "Ionic",
+        "Sykpe"
+    ],
+    "platforms": [
+        "android"
+    ],
+    "engines": []
+}
